@@ -5,20 +5,22 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayim+William!;" />
 </h1>
 
-<h3 align="center">An innovative software developer from Kenya <sub>KE</sub> </h3>
+<h3 align="center">An innovative software developer from Kenya <sup>KE</sup> </h3>
 
 <br/>
 
-<div align="center">
-    🔭 I'm currently working on **an image gallery**
+<<div align="center">
+ 
+ 🔭 I’m currently working on **an image gallery**
+ 
+ 🌱 I’m currently learning **Django, Next.js, Redux**
 
-    🌱 I'm currently learning **Django, Next.js, Redux**
+💬 Ask me about **React, Python, Javascript... or anything [here](https://github.com/BabaMboga/BabaMboga/issues)**
 
-    💬 Ask me about **React, Python, Javascript... or anything [here](https://github.com/BabaMboga/BabaMboga/issues)**
+⚡ Fun fact **Ketchup was used as medicine!**
 
-    ⚡ Fun fact: **Ketchup was used as medicine!**
+ </div>
 
-</div>
 
 <div align="center">
     <a href="mailto:odhisayim@gmail.com">
@@ -32,6 +34,26 @@
     </a>
 </div>
 
+<hr/>
+
+<h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,vercel" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BabaMboga/BabaMboga/output/github-contribution-grid-snake.svg" />
+    <br/><br/><br/>
+</div>
+
+<hr/>
 
 
 
