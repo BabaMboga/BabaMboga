@@ -17,7 +17,7 @@
 
 💬 Ask me about **Python, Javascript, React... or anything [here](https://github.com/BabaMboga/BabaMboga/issues)**
 
-⚡ Fun fact **A single teaspoon of honey represents the lifetime work of 12 bees!**
+⚡ Fun fact: **A single teaspoon of honey represents the lifetime work of 12 bees!**
 
  </div>
 
