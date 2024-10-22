@@ -41,7 +41,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,vercel" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=htmx,java,nextjs,npm,postman,redux,visualstudio,vite,windows,linux"><br>
 </div>
 
 <br/>
