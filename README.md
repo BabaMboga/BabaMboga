@@ -11,13 +11,13 @@
 
 <<div align="center">
  
- 🔭 I’m currently working on **an image gallery**
+ 🔭 I’m currently working on **a random quote generator that uses redux**
  
- 🌱 I’m currently learning **Django, Next.js, Redux**
+ 🌱 I’m currently learning **Django, Node.js, Redux**
 
-💬 Ask me about **React, Python, Javascript... or anything [here](https://github.com/BabaMboga/BabaMboga/issues)**
+💬 Ask me about **Python, Javascript, React... or anything [here](https://github.com/BabaMboga/BabaMboga/issues)**
 
-⚡ Fun fact **Ketchup was used as medicine!**
+⚡ Fun fact **A single teaspoon of honey represents the lifetime work of 12 bees!**
 
  </div>
 
@@ -31,6 +31,7 @@
     </a>
     <a href="https://my-portfolio-nine-chi-77.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+        <img src="">
     </a>
 </div>
 
