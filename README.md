@@ -9,7 +9,7 @@
 
 <br/>
 
-<<div align="center">
+<div align="center">
  
  🔭 I’m currently working on **a random quote generator that uses redux**
  
