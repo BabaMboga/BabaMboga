@@ -31,7 +31,6 @@
     </a>
     <a href="https://my-portfolio-nine-chi-77.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-        <img src="">
     </a>
 </div>
 
