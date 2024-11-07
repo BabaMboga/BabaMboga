@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a random quote generator that uses redux**
+ 🔭 I’m currently working on **an airbnb clone using django and next called PlacePal**
  
  🌱 I’m currently learning **Django, Node.js, Redux**
 
