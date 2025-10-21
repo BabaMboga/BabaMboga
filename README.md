@@ -5,19 +5,19 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayim+William!;" />
 </h1>
 
-<h3 align="center">An innovative software developer from Kenya <sup>KE</sup> </h3>
+<h3 align="center">A software developer from Kenya <sup>KE</sup> </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an airbnb clone using django and next called PlacePal**
+ 🔭 I’m currently working on **Airquality Management System**
  
- 🌱 I’m currently learning **Django, Node.js, Redux**
+ 🌱 I’m currently learning **Express.js, Kafka, Setting up servers**
 
 💬 Ask me about **Python, Javascript, React... or anything [here](https://github.com/BabaMboga/BabaMboga/issues)**
 
-⚡ Fun fact: **A single teaspoon of honey represents the lifetime work of 12 bees!**
+⚡ Fun fact: **A group of flamingos is called a “flamboyance.”**
 
  </div>
 
