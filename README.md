@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Airquality Management System**
+ 🔭 I’m currently working on **Airquality Management System & Payment Intergration**
  
- 🌱 I’m currently learning **Express.js, Kafka, Setting up servers**
+ 🌱 I’m currently learning **Express.js, Containerisation, Container Management**
 
 💬 Ask me about **Python, Javascript, React... or anything [here](https://github.com/BabaMboga/BabaMboga/issues)**
 
-⚡ Fun fact: **A group of flamingos is called a “flamboyance.”**
+⚡ Fun fact: **The brain uses about 20% of the body's total energy on default.**
 
  </div>
 
@@ -39,10 +39,10 @@
 <h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,vercel,stackoverflow" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite,svg" />
-    <img src="https://skillicons.dev/icons?i=htmx,nextjs,postman,docker,visualstudio,vite,windows,linux,pnpm,powershell,vue">
-    <img src="https://skillicons.dev/icons?i=anaconda,azure,blender,cloudflare,express,firebase,kafka,prisma,nginx,nodejs,ubuntu"><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,vercel,stackoverflow,ai,py,wordpress" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite,svg,eclipse,jest, rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=htmx,nextjs,postman,docker,visualstudio,vite,windows,linux,pnpm,powershell,vue, gitlab,kubernetes,regex">
+    <img src="https://skillicons.dev/icons?i=anaconda,azure,blender,cloudflare,express,firebase,kafka,prisma,nginx,nodejs,ubuntu, gmail,mongodb,replit"><br>
 </div>
 
 <br/>
