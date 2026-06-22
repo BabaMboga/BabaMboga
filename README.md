@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayim+William!;" />
 </h1>
 
-<h3 align="center">A software developer from Kenya <sup>KE</sup> </h3>
+<h3 align="center">Kenyan dev. Yes, the timezone is brutal. <sup>KE</sup> </h3>
 
 <br/>
 
@@ -40,9 +40,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,vercel,stackoverflow,ai,py,wordpress" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite,svg,eclipse,jest, rabbitmq" />
-    <img src="https://skillicons.dev/icons?i=htmx,nextjs,postman,docker,visualstudio,vite,windows,linux,pnpm,powershell,vue, gitlab,kubernetes,regex">
-    <img src="https://skillicons.dev/icons?i=anaconda,azure,blender,cloudflare,express,firebase,kafka,prisma,nginx,nodejs,ubuntu, gmail,mongodb,replit"><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite,svg,eclipse,jest, rabbitmq,anaconda" />
+    <img src="https://skillicons.dev/icons?i=htmx,nextjs,postman,docker,visualstudio,vite,windows,linux,pnpm,powershell,vue, gitlab,kubernetes,regex,bash">
+    <img src="https://skillicons.dev/icons?i=anaconda,azure,blender,cloudflare,express,firebase,kafka,prisma,nginx,nodejs,ubuntu, gmail,mongodb,replit,eclipse"><br>
+    <img src="https://skillicons.dev/icons?i=gitlab,"><br>
 </div>
 
 <br/>
@@ -65,6 +66,11 @@
     <img width=390 src="https://github-readme-stats-babamboga.vercel.app/api?username=BabaMboga&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10" alt="readme stats" />
     <br>
     <img width=390 src="https://github-readme-stats-babamboga.vercel.app/api/top-langs/?username=BabaMboga&langs_count=6&&layout=donut-vertical&theme=aura&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+    <br>
+    <img src="https://trophy.ryglcloud.net/?username=Myminiwrldsht&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="BabaMboga's GitHub Trophies" />
+    <br>
+    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Myminiwrldsht&theme=radical&radius=10" alt="BabaMboga's Activity Graph" />
+
 </div>
 
 <br/><br/>
