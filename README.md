@@ -67,9 +67,9 @@
     <br>
     <img width=390 src="https://github-readme-stats-babamboga.vercel.app/api/top-langs/?username=BabaMboga&langs_count=6&&layout=donut-vertical&theme=aura&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
     <br>
-    <img src="https://trophy.ryglcloud.net/?username=Myminiwrldsht&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="BabaMboga's GitHub Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=BabaMboga&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="BabaMboga's GitHub Trophies" />
     <br>
-    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Myminiwrldsht&theme=radical&radius=10" alt="BabaMboga's Activity Graph" />
+    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=BabaMboga&theme=radical&radius=10" alt="BabaMboga's Activity Graph" />
 
 </div>
 
