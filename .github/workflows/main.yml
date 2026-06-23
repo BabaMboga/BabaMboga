@@ -44,6 +44,12 @@ jobs:
         env:
             GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
+        # Fix permissions so the next action can write to dist/
+      - name: Fix dist permissions
+        run: |
+          mkdir -p dist
+          chmod -R 777 dist
+
         # --- ARCADE GRAPHS ---
       - name: Generate Arcade graphs
         uses: abozanona/pacman-contribution-graph@main
