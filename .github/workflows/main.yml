@@ -45,10 +45,10 @@ jobs:
             GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
         # Fix permissions so the next action can write to dist/
-      - name: Fix dist permissions
-        run: |
-          mkdir -p dist
-          chmod -R 777 dist
+      # - name: Fix dist permissions
+      #   run: |
+      #     mkdir -p dist
+      #     chmod -R 777 dist
 
         # --- ARCADE GRAPHS ---
       - name: Generate Arcade graphs
@@ -59,6 +59,18 @@ jobs:
             
       - name: Show build status
         run: git status
+
+        #Merge both outputs into dist/
+      - name: Merge outputs
+        run: |
+          mkdir -p dist
+          cp snake-dist/* dist/ 2>/dev/null || true
+          cp dist/* dist/ 2>/dev/null || true  # arcade already outputs to dist by default
+          # Actually, let's be smarter:
+          # Arcade outputs to dist/, snake to snake-dist/
+          # So just move snake files into dist
+          cp snake-dist/* dist/ 
+          
         
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
