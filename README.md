@@ -39,11 +39,20 @@
 <h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,vercel,stackoverflow,ai,py,wordpress" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,flask,mysql,netlify,npm,postgres,sqlite,svg,eclipse,jest, rabbitmq,anaconda" />
-    <img src="https://skillicons.dev/icons?i=htmx,nextjs,postman,docker,visualstudio,vite,windows,linux,pnpm,powershell,vue, gitlab,kubernetes,regex,bash">
-    <img src="https://skillicons.dev/icons?i=anaconda,azure,blender,cloudflare,express,firebase,kafka,prisma,nginx,nodejs,ubuntu, gmail,mongodb,replit,eclipse"><br>
-    <img src="https://skillicons.dev/icons?i=gitlab,"><br>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,redux,tailwind,bootstrap,html,css,js,ts" />
+    </p>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,mongodb,mysql,postgres,sqlite,prisma" />
+    </p>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,ubuntu,bash,powershell,git,github,gitlab" />
+    </p>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=postman,firebase,cloudflare,vercel,figma,wordpress,azure,kafka,regex" />
+    </p>
+
+    
 </div>
 
 <br/>
